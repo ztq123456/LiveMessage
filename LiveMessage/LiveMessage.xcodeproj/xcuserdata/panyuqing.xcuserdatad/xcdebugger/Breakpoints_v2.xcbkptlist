@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "ABCCFBDA-EDCD-4DA6-928F-C2A9D069CFAF"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "4482AFB0-4999-457F-929A-5EF717B675AD"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "LiveMessage/LiveMessageView/ZTQLiveMsgView.m"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "38"
+            endingLineNumber = "38"
+            landmarkName = "-OrientationDidChanged"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "331DEB05-4699-4145-96F6-7BD0DC427487"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "LiveMessage/LiveMessageView/ZTQLiveMsgView.m"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "42"
+            endingLineNumber = "42"
+            landmarkName = "-OrientationDidChanged"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "331DEB05-4699-4145-96F6-7BD0DC427487 - 6e5a57c51712a1c1"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "-[ZTQLiveMsgView OrientationDidChanged]"
+                  moduleName = "LiveMessage"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/leiou/Desktop/LiveMessage/LiveMessage/LiveMessageView/ZTQLiveMsgView.m"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "52"
+                  endingLineNumber = "52"
+                  offsetFromSymbolStart = "295">
+               </Location>
+               <Location
+                  uuid = "331DEB05-4699-4145-96F6-7BD0DC427487 - 47084ffaf20da651"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "__39-[ZTQLiveMsgView OrientationDidChanged]_block_invoke"
+                  moduleName = "LiveMessage"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/leiou/Desktop/LiveMessage/LiveMessage/LiveMessageView/ZTQLiveMsgView.m"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "53"
+                  endingLineNumber = "53"
+                  offsetFromSymbolStart = "68">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
